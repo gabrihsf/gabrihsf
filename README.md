@@ -17,5 +17,5 @@
   <a href="https://www.instagram.com/gabri_hsf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrihsf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](htts://github.com/gabrihsf/gabrihsf/blob/output/github-contribution-grd-snake.svg)
+![Snake animation](https://github.com/gabrihsf/gabrihsf/blob/output/github-contribution-grid-snake.svg)
 </div>
