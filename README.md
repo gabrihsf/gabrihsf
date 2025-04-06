@@ -38,11 +38,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrihsf}/count.svg" /></p> 
 <br></div>
 
-##
-
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabrihsf/gabrihsf/output/github-contribution-grid-snake.svg" />
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2554E2&height=120&section=footer"/>
